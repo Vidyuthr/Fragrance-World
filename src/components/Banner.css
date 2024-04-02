@@ -1,0 +1,73 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.welcome {
+  font-size: 50px;
+}
+
+.discover {
+  font-size: 23px;
+  color: white; 
+}
+
+.search-container {
+  gap: 8px;
+  margin-top: 20px;
+  display: inline-block;
+  align-items: center;
+  width: 300px;
+  height: 40px;
+  
+}
+
+.search-button-div {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.search-logo {
+  border: 1px solid #ccc;
+  background: rgb(255, 255, 255);
+  border-radius: 10px 10px 10px 10px;
+  width: 45px;
+  height: 45px;
+  transition: transform 0.3s ease;
+}
+
+button[type="button"]:hover {
+  transform: scale(1.04);
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  transition: background-color 0.3s ease;
+  transition: transform 0.3s ease;
+}
+
+input[type="text"]:hover {
+  transform: scale(1.02);
+}
+
+
+
+/* button[type="submit"] {
+  padding: 10px 15px;
+  background-color:white;
+  border: 1px solid #ccc;
+  border-radius: 10px 10px 10px 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  transition: transform 0.3s ease;
+} */
+
+button[type="submit"]:hover {
+  background-color: darkgray;
+  transform: scale(1.04);
+}

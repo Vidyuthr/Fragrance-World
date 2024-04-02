@@ -1,0 +1,19 @@
+.modal-overlay {
+    position: fixed;
+    /* bottom: 80; */
+    width: 40%; /* Set the width of the modal overlay to 100% of the screen */
+    height: 40%; /* Set the height of the modal overlay to 100% of the screen */
+    background-color: rgba(0, 0, 0, 0.5); /* Set a semi-transparent black background color */
+    display: flex; /* Use flexbox for centering the modal content */
+    justify-content: center; /* Center the modal content horizontally */
+    align-items: center; /* Center the modal content vertically */
+    z-index: 9999; /* Set a high z-index to ensure the modal overlay is on top of other elements */
+  }
+  
+  .modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 400px;
+    text-align: center;
+  }

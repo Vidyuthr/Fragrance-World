@@ -1,0 +1,474 @@
+{
+  "Womens2023Winners": [
+  {
+  "name": "Libre Le Parfum Yves Saint Laurent",
+  "rating": 8,
+  "prominentNotes": [
+  "Lavender",
+  "Orange Blossom",
+  "Vanilla"
+  ],
+  "occasion": "Formal",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/ysl_libre.png"
+  },
+  {
+  "name": "Angels' Share Anniversary Edition By Kilian",
+  "rating": 9,
+  "prominentNotes": [
+  "Cognac",
+  "Tonka Bean",
+  "Oak"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$$",
+  "image": "/fragrance_images/angels_kilian.png"
+  },
+  {
+  "name": "Goddess Burberry",
+  "rating": 7.5,
+  "prominentNotes": [
+  "Rose",
+  "Peony",
+  "Musk"
+  ],
+  "occasion": "Casual",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/goddess.png"
+  },
+  {
+  "name": "Black Opium Le Parfum Yves Saint Laurent",
+  "rating": 8.5,
+  "prominentNotes": [
+  "Coffee",
+  "Vanilla",
+  "White Flowers"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/black_opium.png"
+  },
+  {
+  "name": "Devotion Dolce&Gabbana",
+  "rating": 7,
+  "prominentNotes": [
+  "White Flowers",
+  "Musk",
+  "Citrus"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/dolce_devotion.png"
+  },
+  {
+  "name": "Musc Noir Rose For Her Narciso Rodriguez",
+  "rating": 8,
+  "prominentNotes": [
+  "Musk",
+  "Rose",
+  "Leather"
+  ],
+  "occasion": "Casual",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/musc_noir_rose.png"
+  },
+  {
+  "name": "Burberry Her Elixir de Parfum Burberry",
+  "rating": 7.5,
+  "prominentNotes": [
+  "Berry Fruits",
+  "Jasmine",
+  "Vanilla"
+  ],
+  "occasion": "Casual",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/burberry_her_elixer.png"
+  },
+  {
+  "name": "Babycat Yves Saint Laurent",
+  "rating": 8,
+  "prominentNotes": [
+  "Saffron",
+  "Cacao",
+  "Tobacco"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$$",
+  "image": "/fragrance_images/babycat.png"
+  },
+  {
+  "name": "L'Interdit Eau de Parfum Rouge Ultime Givenchy",
+  "rating": 9,
+  "prominentNotes": [
+  "Ginger",
+  "Jasmine",
+  "Blood Orange"
+  ],
+  "occasion": "Special Occasions",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/linterdit.png"
+  },
+  {
+  "name": "Khamrah Lattafa Perfumes",
+  "rating": 7.5,
+  "prominentNotes": [
+  "Amber",
+  "Oud",
+  "Incense"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$",
+  "image": "/fragrance_images/kamrah.png"
+  }
+  ],
+  "Mens2023Winners": [
+  {
+  "name": "Le Male Elixir Jean Paul Gaultier",
+  "rating": 8.5,
+  "prominentNotes": [
+  "Vanilla",
+  "Lavender",
+  "Liquor"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/male_elixir.png"
+  },
+  {
+  "name": "Gentleman Eau de Parfum Reserve Privée Givenchy",
+  "rating": 9,
+  "prominentNotes": [
+  "Whiskey",
+  "Iris",
+  "Leather"
+  ],
+  "occasion": "Formal",
+  "priceRange": "$$$$",
+  "image": "/fragrance_images/reserve_privee.png"
+  },
+  {
+  "name": "Le Beau Le Parfum Jean Paul Gaultier",
+  "rating": 8,
+  "prominentNotes": [
+  "Coconut",
+  "Tonka Bean",
+  "Amber"
+  ],
+  "occasion": "Casual",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/le_beau.png"
+  },
+  {
+  "name": "Terre d'Hermes Eau Givree Hermès",
+  "rating": 9,
+  "prominentNotes": [
+  "Citrus",
+  "Juniper Berries",
+  "Woods"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/terre.png"
+  },
+  {
+  "name": "The Most Wanted Parfum Azzaro",
+  "rating": 7.5,
+  "prominentNotes": [
+  "Toffee",
+  "Amberwood",
+  "Cardamom"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$",
+  "image": "/fragrance_images/azzaro_mwp.png"
+  },
+  {
+  "name": "Acqua di Giò Parfum Giorgio Armani",
+  "rating": 9,
+  "prominentNotes": [
+  "Marine Notes",
+  "Citrus",
+  "Rosemary"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/acqua_di_gio_parfum.png"
+  },
+  {
+  "name": "Noir Extreme Parfum Tom Ford",
+  "rating": 8.5,
+  "prominentNotes": [
+  "Saffron",
+  "Black Plum",
+  "Vanilla"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$$",
+  "image": "/fragrance_images/noir_extreme.png"
+  },
+  {
+  "name": "Valentino Uomo Born In Roma Intense Valentino",
+  "rating": 8,
+  "prominentNotes": [
+  "Salt",
+  "Ginger",
+  "Violet"
+  ],
+  "occasion": "Casual",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/born_in_roma.png"
+  },
+  {
+  "name": "Khamrah Lattafa Perfumes",
+  "rating": 7.5,
+  "prominentNotes": [
+  "Amber",
+  "Oud",
+  "Incense"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$",
+  "image": "/fragrance_images/kamrah.png"
+  },
+  {
+  "name": "Angels' Share Anniversary Edition By Kilian",
+  "rating": 9,
+  "prominentNotes": [
+  "Cognac",
+  "Tonka Bean",
+  "Oak"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$$",
+  "image": "/fragrance_images/angels_kilian.png"
+  }
+  ],
+  "Womens Best of All Time": [
+  {
+  "name": "Chanel No. 5",
+  "rating": 9.5,
+  "prominentNotes": [
+  "Aldehydes",
+  "Rose",
+  "Vanilla"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/Chanel5.webp"
+  },
+  {
+  "name": "Chanel Coco Mademoiselle",
+  "rating": 9,
+  "prominentNotes": [
+  "Orange Blossom",
+  "Turkish Rose",
+  "Vetiver"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/mademoseille.png"
+  },
+  {
+  "name": "Flowerbomb Viktor Rolf",
+  "rating": 8.5,
+  "prominentNotes": [
+  "Rose",
+  "Jasmine",
+  "Patchouli"
+  ],
+  "occasion": "Spring/Summer",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/flowerbomb.png"
+  },
+  {
+  "name": "J'Adore Eau de Parfum Christian Dior",
+  "rating": 8.5,
+  "prominentNotes": [
+  "Jasmine",
+  "Neroli",
+  "Magnolia"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/jadore.png"
+  },
+  {
+  "name": "Miss Dior Eau de Parfum Christian Dior",
+  "rating": 8,
+  "prominentNotes": [
+  "Rose",
+  "Iris",
+  "Woodsy Notes"
+  ],
+  "occasion": "Spring/Summer",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/miss_dior.png"
+  },
+  {
+  "name": "La Vie Est Belle Lancome",
+  "rating": 8,
+  "prominentNotes": [
+  "Iris",
+  "Patchouli",
+  "Vanilla"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/lancome.png"
+  },
+  {
+  "name": "Baccarat Rouge 540 Maison Francis Kurkdjian",
+  "rating": 9.5,
+  "prominentNotes": [
+  "Saffron",
+  "Jasmine",
+  "Woody Notes"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$$",
+  "image": "/fragrance_images/b_rouge540.png"
+  },
+  {
+  "name": "Cloud Ariana Grande",
+  "rating": 7.5,
+  "prominentNotes": [
+  "Lavender",
+  "Marshmallow",
+  "Vanilla"
+  ],
+  "occasion": "Casual",
+  "priceRange": "$",
+  "image": "/fragrance_images/cloud.png"
+  },
+  {
+  "name": "Angel Mugler",
+  "rating": 8.5,
+  "prominentNotes": [
+  "Patchouli",
+  "Chocolate",
+  "Honey"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/angler.png"
+  },
+  {
+  "name": "Black Opium Yves Saint Laurent",
+  "rating": 9,
+  "prominentNotes": [
+  "Coffee",
+  "Vanilla",
+  "White Flowers"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/black_opium.png"
+  }
+  ],
+  "Mens Best of All Time": [
+  {
+  "name": "Creed Aventus",
+  "rating": 9.5,
+  "prominentNotes": [
+  "Pineapple",
+  "Birch",
+  "Black Currant"
+  ],
+  "occasion": "Versatile",
+  "priceRange": "$$$$",
+  "image": "/fragrance_images/aventus.png"
+  },
+  {
+  "name": "Sauvage Eau de Parfum Dior",
+  "rating": 9,
+  "prominentNotes": [
+  "Ambroxan",
+  "Bergamot",
+  "Pepper"
+  ],
+  "occasion": "Versatile",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/sauvauge.png"
+  },
+  {
+  "name": "Terre d'Hermès Eau de Toilette Hermès",
+  "rating": 8.5,
+  "prominentNotes": [
+  "Orange",
+  "Geranium",
+  "Vetiver"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/terre.png"
+  },
+  {
+  "name": "Acqua di Gio Giorgio Armani",
+  "rating": 8,
+  "prominentNotes": [
+  "Marine Notes",
+  "Citrus",
+  "Woods"
+  ],
+  "occasion": "Summer",
+  "priceRange": "$",
+  "image": "/fragrance_images/acqua_di_gio.png"
+  },
+  {
+  "name": "Y by Yves Saint Laurent",
+  "rating": 7.5,
+  "prominentNotes": [
+  "Lavender",
+  "Geranium",
+  "Mint"
+  ],
+  "occasion": "Daytime",
+  "priceRange": "$$",
+  "image": "/fragrance_images/ysl_y.png"
+  },
+  {
+  "name": "Bleu de Chanel Eau de Parfum Chanel",
+  "rating": 9,
+  "prominentNotes": [
+  "Woody Notes",
+  "Ginger",
+  "Incense"
+  ],
+  "occasion": "Evening",
+  "priceRange": "$$$",
+  "image": "/fragrance_images/bleu_de_chanel.png"
+      },
+      {
+        "name": "Fahrenheit Christian Dior",
+        "rating": 8,
+        "prominentNotes": ["Violet Leaf", "Leather", "Mandarin Orange"],
+        "occasion": "Fall/Winter",
+        "priceRange": "$$",
+        "image": "/fragrance_images/farenheit.png"
+      },
+      {
+        "name": "Polo Ralph Lauren",
+        "rating": 7.5,
+        "prominentNotes": ["Citrus", "Woodsy Notes", "Musk"],
+        "occasion": "Daytime",
+        "priceRange": "$",
+        "image": "/fragrance_images/polo.png"
+      },
+      {
+        "name": "1 Million Paco Rabanne",
+        "rating": 8,
+        "prominentNotes": ["Cinnamon", "Leather", "Rose"],
+        "occasion": "Evening",
+        "priceRange": "$$",
+        "image": "/fragrance_images/1million.png"
+      },
+      {
+        "name": "Invictus Paco Rabanne",
+        "rating": 8.5,
+        "prominentNotes": ["Grapefruit", "Aquatic Notes", "Laurel"],
+        "occasion": "Daytime",
+        "priceRange": "$",
+        "image": "/fragrance_images/invictus.png"
+      }
+    ]
+      }

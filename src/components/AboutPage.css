@@ -1,0 +1,48 @@
+/* AboutPage.css */
+.about_all {
+  background-color: rgb(209,147,96);
+}
+.about-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: none;
+
+
+  }
+  
+  .brand-highlight {
+    background-color: yellow;
+    padding: 2px 5px;
+    border-radius: 3px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .para1, 
+  .para2, 
+  .para3, 
+  .para4, 
+  .para5 {
+    color: white;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  .about-footer {
+    margin-top: 20px;
+  }
+  
+  .about-footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .about-footer a:hover {
+    text-decoration: underline;
+  }
+  
